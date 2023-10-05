@@ -1,0 +1,8 @@
+@import '../assets/assets/partials/bootstrap-5.3.2/bootstrap-5.3.2/scss/functions';
+@import '../assets/assets/partials/bootstrap-5.3.2/bootstrap-5.3.2/scss/variables';
+
+.navbar-avatar{
+    width: calc(20px + ($spacer * 2));
+}
+
+@import '../assets/assets/partials/bootstrap-5.3.2/bootstrap-5.3.2/scss/bootstrap.scss'
